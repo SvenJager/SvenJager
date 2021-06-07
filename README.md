@@ -2,7 +2,7 @@
 - 👀 I’m interested in airsoft, coding, electronics
 - 🌱 I’m currently learning coding, grafic desing, lighting design and operation
 - 💞️ I’m looking to collaborate on nothing yet i wil update this later
-- 📫 How to reach me twitter: @svenjager4
+- 📫 How to reach me on twitter: @svenjager4
 
 <!---
 SvenJager/SvenJager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
