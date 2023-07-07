@@ -5,7 +5,7 @@
 - 📫 How to reach me on twitter: @svenjager4
 
 - copyright disclaimer:
-- all of my projects unlless written down in the projects README fall under the CC BY-NC-ND 4.0 license.
+- all of my projects unless written down in the projects README fall under the CC BY-NC-ND 4.0 license.
 - if you do want to publish your version of your project feel free to reach out to me to we can figure something out.
 
 <!---
