@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SvenJager
-- 👀 I’m interested: in home-labbing, coding, electronics
-- 🌱 I’m currently learning: coding, graphic design, lighting design and operation
+- 👀 I’m interested in: Home-labbing, Software Devolopment and networkifrastructure managment
+- 🌱 I’m currently learning: Coding, Network managment/operation and much more
 - 💞️ I’m looking to collaborate on: nothing yet, i wil update this later
-- 📫 How to reach me on twitter: @svenjager4
+- 📫 How to reach me on: Just Github chat please
 
 - copyright disclaimer:
 - all of my projects unless written down in the projects README fall under the CC BY-NC-ND 4.0 license.
